@@ -1,0 +1,23 @@
+{
+    "profile": "Profile",
+    "name": "AmirHossein Ahangar",
+    "job": "Mobile Developer",
+    "location": "Mashhad, IRAN",
+    "summary": "In the name of God, I am Amirhossein Ahangar, a computer science student and a resident of Mashhad, Iran. I love flutter and learning and I always do my best for your success.>>",
+    "skills": "Skills",
+    "flutter": "Flutter",
+    "dart": "Dart",
+    "information": "Personal Information",
+    "email": "Email",
+    "phone": "Phone",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "save": "SAVE",
+    "return_home": "Return To Home",
+    "thanks": "Thanks for your cooperation",
+
+    "selectedLanguage": "LANGUAGE",
+    "faLanguage":"FARSI",
+    "enLanguage":"ENGLISH",
+    "arLanguage":"ARABIC"
+}
